@@ -1,2 +1,4 @@
 # Learning-C
-Showcases my progress while learning C Programming
+Showcases my progress while I learn C Programming
+Will be uploading content soon....
+
