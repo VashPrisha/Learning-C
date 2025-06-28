@@ -11,3 +11,4 @@ int main() {
 
     return 0;
 }
+// there can be multiple variations within this topic, For example: using a value for the varaible that fits in 9 bits only, nothing less than that(i.e. 258 etc.), then it would require truncation.
