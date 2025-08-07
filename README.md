@@ -1,3 +1,3 @@
 # Learning-C
-My C Programming learning journey in the form of codes
+All my codes while I learn C.
 
